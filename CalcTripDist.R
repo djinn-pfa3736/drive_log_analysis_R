@@ -1,0 +1,3 @@
+CalcTripDist <- function(trip) {
+
+}
